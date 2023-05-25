@@ -32,6 +32,7 @@
    "theme_color": "#FFFFFF",
    "background_color": "#FFFFFF",
    "display": "standalone",
+   "orientation": "landscape",
    "start_url": "../../index.php",
    "id": "../../index.php"
 }
