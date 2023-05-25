@@ -1,0 +1,21 @@
+{
+    "name": "chaoswd/order",
+    "description": "In-Progress Super-Ultra-Micro-Framework.",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jordan Gerber",
+            "email": "jordangerber@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ChaosWD\\Order\\": "server/src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "chaoswd/dispatcher": "dev-main"
+    }
+}
